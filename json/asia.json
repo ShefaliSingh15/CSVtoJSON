@@ -1,0 +1,202 @@
+[
+  {
+    "countrycode": "ARM",
+    "LifeExpectancyFemale": 3969.571,
+    "LifeExpectancyMale": 3624.3450000000003
+  },
+  {
+    "countrycode": "AZE",
+    "LifeExpectancyFemale": 3743.1940000000004,
+    "LifeExpectancyMale": 3357.9060000000013
+  },
+  {
+    "countrycode": "BHR",
+    "LifeExpectancyFemale": 3834.3919999999994,
+    "LifeExpectancyMale": 3671.182
+  },
+  {
+    "countrycode": "BGD",
+    "LifeExpectancyFemale": 3121.2400000000007,
+    "LifeExpectancyMale": 3079.1509999999994
+  },
+  {
+    "countrycode": "BTN",
+    "LifeExpectancyFemale": 2709.1059999999998,
+    "LifeExpectancyMale": 2705.8179999999993
+  },
+  {
+    "countrycode": "BRN",
+    "LifeExpectancyFemale": 3948.509000000001,
+    "LifeExpectancyMale": 3782.112
+  },
+  {
+    "countrycode": "KHM",
+    "LifeExpectancyFemale": 2729.223,
+    "LifeExpectancyMale": 2481.4060000000004
+  },
+  {
+    "countrycode": "CHN",
+    "LifeExpectancyFemale": 3663.981999999999,
+    "LifeExpectancyMale": 3512.6280000000006
+  },
+  {
+    "countrycode": "GEO",
+    "LifeExpectancyFemale": 3968.3079999999995,
+    "LifeExpectancyMale": 3561.1319999999996
+  },
+  {
+    "countrycode": "IND",
+    "LifeExpectancyFemale": 3030.455999999999,
+    "LifeExpectancyMale": 3005.0540000000005
+  },
+  {
+    "countrycode": "IDN",
+    "LifeExpectancyFemale": 3369.975,
+    "LifeExpectancyMale": 3210.1210000000005
+  },
+  {
+    "countrycode": "IRQ",
+    "LifeExpectancyFemale": 3556.2320000000013,
+    "LifeExpectancyMale": 3320.359
+  },
+  {
+    "countrycode": "JPN",
+    "LifeExpectancyFemale": 4328.5599999999995,
+    "LifeExpectancyMale": 4019.0200000000004
+  },
+  {
+    "countrycode": "JOR",
+    "LifeExpectancyFemale": 3671.2609999999995,
+    "LifeExpectancyMale": 3534.697999999999
+  },
+  {
+    "countrycode": "KAZ",
+    "LifeExpectancyFemale": 3801.016,
+    "LifeExpectancyMale": 3244.7419999999997
+  },
+  {
+    "countrycode": "KWT",
+    "LifeExpectancyFemale": 3845.3699999999985,
+    "LifeExpectancyMale": 3723.3570000000004
+  },
+  {
+    "countrycode": "KGZ",
+    "LifeExpectancyFemale": 3704.7999999999984,
+    "LifeExpectancyMale": 3258.901
+  },
+  {
+    "countrycode": "LAO",
+    "LifeExpectancyFemale": 2939.1320000000005,
+    "LifeExpectancyMale": 2790.2200000000003
+  },
+  {
+    "countrycode": "LBN",
+    "LifeExpectancyFemale": 3907.901,
+    "LifeExpectancyMale": 3716.992
+  },
+  {
+    "countrycode": "MYS",
+    "LifeExpectancyFemale": 3815.1529999999993,
+    "LifeExpectancyMale": 3636.4629999999993
+  },
+  {
+    "countrycode": "MDV",
+    "LifeExpectancyFemale": 3145.6780000000003,
+    "LifeExpectancyMale": 3143.1780000000003
+  },
+  {
+    "countrycode": "MNG",
+    "LifeExpectancyFemale": 3352.8750000000005,
+    "LifeExpectancyMale": 3057.615999999999
+  },
+  {
+    "countrycode": "MMR",
+    "LifeExpectancyFemale": 3185.7790000000005,
+    "LifeExpectancyMale": 2934.1809999999996
+  },
+  {
+    "countrycode": "NPL",
+    "LifeExpectancyFemale": 2844.4400000000005,
+    "LifeExpectancyMale": 2773.526
+  },
+  {
+    "countrycode": "OMN",
+    "LifeExpectancyFemale": 3476.6820000000016,
+    "LifeExpectancyMale": 3294.632
+  },
+  {
+    "countrycode": "PAK",
+    "LifeExpectancyFemale": 3167.3220000000006,
+    "LifeExpectancyMale": 3109.844
+  },
+  {
+    "countrycode": "PHL",
+    "LifeExpectancyFemale": 3582.6059999999993,
+    "LifeExpectancyMale": 3315.802
+  },
+  {
+    "countrycode": "QAT",
+    "LifeExpectancyFemale": 4002.646000000001,
+    "LifeExpectancyMale": 3866.3430000000008
+  },
+  {
+    "countrycode": "SAU",
+    "LifeExpectancyFemale": 3552.9369999999994,
+    "LifeExpectancyMale": 3364.800999999999
+  },
+  {
+    "countrycode": "SGP",
+    "LifeExpectancyFemale": 4139.221,
+    "LifeExpectancyMale": 3853.036
+  },
+  {
+    "countrycode": "LKA",
+    "LifeExpectancyFemale": 3847.39,
+    "LifeExpectancyMale": 3544.121999999999
+  },
+  {
+    "countrycode": "SYR",
+    "LifeExpectancyFemale": 3682.436,
+    "LifeExpectancyMale": 3556.667
+  },
+  {
+    "countrycode": "TJK",
+    "LifeExpectancyFemale": 3546.159999999999,
+    "LifeExpectancyMale": 3225.8390000000004
+  },
+  {
+    "countrycode": "THA",
+    "LifeExpectancyFemale": 3747.539,
+    "LifeExpectancyMale": 3417.6310000000008
+  },
+  {
+    "countrycode": "TUR",
+    "LifeExpectancyFemale": 3522.7479999999996,
+    "LifeExpectancyMale": 3161.9549999999995
+  },
+  {
+    "countrycode": "TKM",
+    "LifeExpectancyFemale": 3521.062,
+    "LifeExpectancyMale": 3115.044000000001
+  },
+  {
+    "countrycode": "ARE",
+    "LifeExpectancyFemale": 3793.3969999999995,
+    "LifeExpectancyMale": 3626.2340000000004
+  },
+  {
+    "countrycode": "UZB",
+    "LifeExpectancyFemale": 3706.6890000000008,
+    "LifeExpectancyMale": 3343.0779999999995
+  },
+  {
+    "countrycode": "VNM",
+    "LifeExpectancyFemale": 3937.3070000000002,
+    "LifeExpectancyMale": 3441.446
+  },
+  {
+    "countrycode": "ISR",
+    "LifeExpectancyFemale": 3892.640000000001,
+    "LifeExpectancyMale": 3716.929999999999
+  }
+]
